@@ -8,6 +8,8 @@ function print_r(){
 }
 
 function print_l(){
+  print_large();
 }
 
 window.print_r = print_r;
+window.print_l = print_l;
