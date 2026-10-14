@@ -1,1 +1,14 @@
-
+{
+  "string_example":"Hello World",
+  "number_example":100,
+  "boolean_example":false,
+  "null_example":null,
+  "empty_object":{},
+  "three_attribute_object":{
+    "Name":"Threepio",
+    "Partner":"R2-D2",
+    "Iconic":true
+  },
+  "empty_array_example":[],
+  "mixed_array_example":[10, "Lo", null]
+}
